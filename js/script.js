@@ -34,9 +34,6 @@ var screen_widget = (function(){
         var BUTTONS = [];
         var activeButton;
 
-        var tz = new Image();
-        tz.src = './img/tz.png';
-
         var linksState = false;
 
         var ourCOLORS = {
